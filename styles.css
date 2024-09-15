@@ -1,0 +1,45 @@
+* {
+    font-family: "Outfit", system-ui;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #d6e2f0;
+}
+
+p {
+    font-size: 15px;
+    text-align: center;
+    color: #68778d;
+    padding: 1rem 3rem;
+}
+
+
+#qr-container {
+    background-color: #ffffff;
+    margin-top: 7rem;
+    width: 350px;
+    height: 520px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+
+
+.qr-code-img {
+    text-align: center;
+}
+
+.qr-code-img img {
+    width: 100%;
+    padding: 1rem;
+    border-radius: 25px;
+
+}
+
+h2 {
+    text-align: center;
+    padding: 0 1.3rem;
+}
